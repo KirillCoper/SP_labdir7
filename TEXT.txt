@@ -1,0 +1,7 @@
+1. Write two programs. The first implements an algorithm for finding primes in
+some interval. The second - splits the specified interval into ranges, implements
+the search for prime numbers in each of the intervals in a separate process, displays the general
+result.
+2. Write two programs. The first implements the search algorithm for the specified substring in
+line. The second - splits the input file into fragments, searches for a substring in
+each of the fragments in a separate process, displays the overall result.
